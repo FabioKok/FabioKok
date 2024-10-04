@@ -4,6 +4,9 @@
 I am an aspiring Software Engineer, currently studying at *The University of Central Florida* for a bachelor's in Computer Science and currently taking my final classes, doing group projects constantly.
 
   ## Experience:
+
+  [Resume](https://github.com/FabioKok/FabioKok/blob/a1bc035a5635c52c9bcb79201fa4d5609ce9ef4b/Resume_oct32024.pdf)
+  
   Languages I am proficient with: C, Java, Python
   
   Languages I have experience with: SQL, Haskell, Js/Ts, jQuery, HTML, PHP, C#(Unity), Swift
