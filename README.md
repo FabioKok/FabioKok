@@ -10,7 +10,7 @@ I am an aspiring Software Engineer, currently studying at *The University of Cen
   
   ## Hobbies:
 - I am a FC Barcelona Fan, I watch futbol or keep up with it consistently
-- I play a variety of video games (Escape from Tarkov, Helldivers 2, etc...)
+- I play a variety of video games (Escape from Tarkov, TFT, etc...)
 - Cooking *good* food (not just to survive)
 - Learning (SWE or random topics)
 <!---
